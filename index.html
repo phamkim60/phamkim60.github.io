@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio de Kim PHAM - Développeur Web Full Stack">
+    <meta name="keywords"
+        content="Kim PHAM, Développeur Web, Full Stack, HTML, CSS, JavaScript, React, Redux, Symfony, Laravel, MySQL">
+    <meta name="author" content="Kim PHAM">
+    <title>Kim PHAM - Développeur Web Full Stack</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="flavicon.ico">
+</head>
+
+<body>
+    <header>
+        <img src="./images/ophrysApifera.png" alt="Logo de Kim PHAM, développeur web">
+        <h1>Kim PHAM</h1>
+        <p>Développeur Web Full Stack</p>
+        <nav>
+            <ul>
+                <li><a href="#about" class="scroll-link">À propos</a></li>
+                <li><a href="#skills" class="scroll-link">Compétences</a></li>
+                <li><a href="#portfolio" class="scroll-link">Réalisations</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>À propos de moi</h2>
+            <p>Après plusieurs années dans le développement de logiciels applicatifs et de tests, je me suis passionnée pour le
+                développement Web, avec à la clé une formation intensive de 6 mois. Titre Professionnel DWMM en poche, je suis à la
+                recherche d’un poste de Développeur Web Full Stack où je pourrai mettre à profit mes compétences, relever de nouveaux
+                défis et continuer à me perfectionner.</p>
+        </section>
+        <section id="skills">
+            <h2>Compétences</h2>
+            <div class="grille">
+                <div class="grille-elt">
+                    <h3>HTML CSS/SCSS Bootstrap Tailwind</h3>
+                    <p>Création de sites web responsives.</p>
+                </div>
+                <div class="grille-elt">
+                    <h3>JavaScript TypeScript React Redux</h3>
+                    <p>Développement front-end dynamique.</p>
+                </div>
+                <div class="grille-elt">
+                    <h3>PHP Symfony Laravel WordPress</h3>
+                    <p>Développement back-end robuste.</p>
+                </div>
+                <div class="grille-elt">
+                    <h3>MySQL</h3>
+                    <p>Conception et gestion de bases de données SQL.</p>
+                </div>
+            </div>
+        </section>
+        <section id="portfolio">
+            <h2>Réalisations</h2>
+            <div class="grille">
+                <div class="grille-elt">
+                    <img src="./images/brico-deco600.png" alt="Photo de la page d'accueil du projet Brico-Déco">
+                    <div class="grille-elt-detail">
+                        <h3>Projet "Brico-Déco"</h3>
+                        <p>Plateforme collaborative pour la recherche et le partage de tutoriels de bricolage et de
+                            décoration.</p>
+                        <p><b>Backend:</b> API REST en Symfony 7 avec base de données MySQL et ORM Doctrine, intégrant
+                            un back-office léger via Twig pour gérer des entités spécifiques.</p>
+                        <p><b>Frontend:</b> Application web monopage (SPA) réactive et responsive en React 18, avec
+                            gestion d'état via Redux Toolkit et requêtes AJAX via Axios.</p>
+                        <aside>Projet de fin d'études réalisé en équipe (4 développeurs) sur 20 jours.</aside>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <button id="bouton-up" title="Retour en haut">↑</button>
+        <p><b>fait avec</b></p>
+        <p class="coeur-anime"></p>
+    </footer>
+    <script src="app.js"></script>
+</body>
+
+</html>
