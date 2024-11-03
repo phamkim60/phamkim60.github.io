@@ -20,7 +20,7 @@ const app = {
     handleOnClickBoutonUp: function () {
         // Scroll fluide vers le haut
         window.scrollTo({ top: 0, behavior: 'smooth' }); 
-    }
+    },
 }
 
 document.addEventListener('DOMContentLoaded', app.init);
