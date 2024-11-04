@@ -1,0 +1,51 @@
+GNU GENERAL PUBLIC LICENSE
+                       Version 2, June 1991
+
+Copyright (C) 2024  Kim PHAM (https://github.com/phamkim60)
+
+Tout le monde est autorisé à copier et à distribuer ce document, mais
+aucune modification n'est autorisée.
+
+                       PREAMBULE
+
+La licence publique générale GNU est conçue pour garantir que vous
+pouvez vous-même partager et modifier des logiciels, afin que
+tous les utilisateurs puissent bénéficier de ces libertés et que la
+communauté dans son ensemble en profite. Cela signifie en particulier
+que vous devez également partager vos modifications si vous les
+diffusez.
+
+La GPL vise à garantir votre liberté d'utiliser, de modifier et de
+distribuer des logiciels, mais cela implique également que vous
+assumez certaines responsabilités. Par exemple, si vous distribuez
+un programme, vous devez le faire sous les termes de la GPL. Cela
+vous garantit que tous ceux à qui vous le distribuez bénéficient
+également de ces libertés.
+
+                         TERMES
+
+1.  Vous pouvez copier et distribuer ce logiciel en
+    conservant la notice de droit d'auteur, la liste des conditions
+    et cette notice. Vous pouvez également modifier ce logiciel et
+    distribuer vos modifications sous les conditions suivantes :
+
+2.  Vous devez faire en sorte que vos versions modifiées portent
+    un nom distinct et que vous ne les présentiez pas comme étant
+    l'original. Vous devez également inclure un avis qui indique
+    que vous avez modifié le logiciel.
+
+3.  Vous devez également vous assurer que, si vous distribuez
+    une version modifiée de ce logiciel, les destinataires ont le
+    droit d'exécuter, de modifier et de distribuer ce logiciel
+    sous les mêmes conditions que vous avez reçues.
+
+4.  Toute personne à qui vous distribuez ce logiciel doit avoir
+    accès à la source du logiciel ou à un accès à la source,
+    soit par un accès direct soit par d'autres moyens.
+
+5.  Ce logiciel est fourni "en l'état", sans garantie d'aucune
+    sorte. Les auteurs ne peuvent être tenus responsables de
+    tout dommage résultant de l'utilisation de ce logiciel.
+
+Pour les détails complets de cette licence, veuillez consulter
+le texte intégral de la GPL.
